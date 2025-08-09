@@ -96,7 +96,7 @@ The long-term aim is to use the high-quality data gathered from both:
 
 ---
 
-## 🤝 Contributors
+## 🤝 Author
 
 - Steven Chen
 - University of Auckland
